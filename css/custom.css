@@ -1,0 +1,12 @@
+.hostname {
+    color: green;
+    font-weight: bold;
+}
+
+.timestamp {
+    color: red;
+}
+
+.log {
+    font-family: "Courier New", Courier, monospace;
+}
