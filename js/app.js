@@ -20,5 +20,6 @@ $(document).ready(function() {
         log.append(inner_payload.syslog_message);
         log.append("</br>");
         console.log(inner_payload);
+        $(window).scrollTop($("#footer").offset().top);
     }
 });
